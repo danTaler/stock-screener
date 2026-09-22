@@ -8502,5 +8502,13 @@
   "RMBI": {
     "last_updated": "2026-09-19T10:55:30.609858",
     "in_earnings_season": false
+  },
+  "ORIC": {
+    "last_updated": "2026-09-22T11:28:13.719661",
+    "in_earnings_season": false
+  },
+  "VHC": {
+    "last_updated": "2026-09-22T11:45:05.052929",
+    "in_earnings_season": false
   }
 }
