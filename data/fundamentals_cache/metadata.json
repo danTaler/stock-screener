@@ -8878,5 +8878,17 @@
   "WSBF": {
     "last_updated": "2026-09-26T11:39:08.616970",
     "in_earnings_season": false
+  },
+  "BAND": {
+    "last_updated": "2026-09-29T12:03:27.571396",
+    "in_earnings_season": false
+  },
+  "CDNL": {
+    "last_updated": "2026-09-29T12:08:25.582494",
+    "in_earnings_season": false
+  },
+  "XRN": {
+    "last_updated": "2026-09-29T12:59:12.093507",
+    "in_earnings_season": false
   }
 }
